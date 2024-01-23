@@ -1,6 +1,7 @@
 # Social
-[![Blog Blade](https://img.shields.io/badge/Charlie%20Wei%20Blob-white?style=plastic&logo=c)](https://www.charliewei.net/)
-[![Microsoft Transcript](https://img.shields.io/badge/Microsoft%20Transcript-steelblue?style=plastic&logo=microsoftazure)](https://learn.microsoft.com/zh-tw/users/charliewei/transcript/dwzqfrw5mjoeq1d?tab=applied-skills-tab)
+[![Blog Badge](https://img.shields.io/badge/Charlie%20Wei%20Blog-white?style=plastic&logo=c)](https://www.charliewei.net/)
+[![Github Badge](https://img.shields.io/badge/Charlie%20Wei-100000?style=plastic&logo=github&logoColor=white)](https://github.com/charliewei0716/)
+[![Microsoft Transcript Badge](https://img.shields.io/badge/Microsoft%20Transcript-steelblue?style=plastic&logo=microsoftazure)](https://learn.microsoft.com/zh-tw/users/charliewei/transcript/dwzqfrw5mjoeq1d?tab=applied-skills-tab)
 ![](https://komarev.com/ghpvc/?username=charliewei0716&style=plastic)
 
 # Github
