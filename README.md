@@ -13,11 +13,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charliewei0716&theme=tokyonight" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=charliewei0716&theme=react"/>
 </div>
