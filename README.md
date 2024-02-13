@@ -1,6 +1,12 @@
 ### Hi there 👋
+I'm Charlie, a senior Python developer and data engineer based in Taiwan, with a strong focus on Microsoft Azure cloud solutions.
 
+- 💻 I'm currently engaged in designing Azure architectures and managing cloud infrastructures.
+- 🔭 My work involves cloud-native development with Python.
+- 🌱 I’m continuously learning more about cloud technologies and best practices.
+- 📫 How to reach me: [charlie860716@gmail.com](mailto:charlie860716@gmail.com)
 
+I regularly share technical articles on my blog at [www.charliewei.net](https://www.charliewei.net/).
 
 ## 🤝 Social
 [![Blog Badge](https://img.shields.io/badge/Charlie%20Wei%20Blog-white?style=flat&logo=c)](https://www.charliewei.net/)
@@ -19,8 +25,6 @@
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-
-<br/>
 
 ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat)
 ![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
