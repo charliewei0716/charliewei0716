@@ -1,9 +1,10 @@
 # Social
-[![Blog Badge](https://img.shields.io/badge/Charlie%20Wei%20Blog-white?style=plastic&logo=c)](https://www.charliewei.net/)
-[![Github Badge](https://img.shields.io/badge/Charlie%20Wei-100000?style=plastic&logo=github&logoColor=white)](https://github.com/charliewei0716/)
-[![Microsoft Transcript Badge](https://img.shields.io/badge/Microsoft%20Transcript-steelblue?style=plastic&logo=microsoftazure)](https://learn.microsoft.com/zh-tw/users/charliewei/transcript/dwzqfrw5mjoeq1d?tab=applied-skills-tab)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlie-wei/)
-![](https://komarev.com/ghpvc/?username=charliewei0716&style=plastic)
+[![Blog Badge](https://img.shields.io/badge/Charlie%20Wei%20Blog-white?style=for-the-badge&logo=c)](https://www.charliewei.net/)
+[![Github Badge](https://img.shields.io/badge/Charlie%20Wei-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charliewei0716/)
+[![Microsoft Transcript Badge](https://img.shields.io/badge/Microsoft%20Transcript-steelblue?style=for-the-badge&logo=microsoftazure)](https://learn.microsoft.com/zh-tw/users/charliewei/transcript/dwzqfrw5mjoeq1d?tab=applied-skills-tab)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61552052762497)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlie-wei/)
+![](https://komarev.com/ghpvc/?username=charliewei0716&style=for-the-badge)
 
 # Github
 <div align="center">
