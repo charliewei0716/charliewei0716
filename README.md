@@ -44,5 +44,5 @@ I regularly share technical articles on my blog at [www.charliewei.net](https://
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charliewei0716&theme=react"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charliewei0716&height=300&theme=react"/>
 </div>
